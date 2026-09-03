@@ -1,3 +1,3 @@
-1.basic tensor functions 
+1.basic tensor functions                                                                                                                                                                                                 
 2.Autograd
 
